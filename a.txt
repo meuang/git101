@@ -1,2 +1,0 @@
-แก้ไขไฟล์ a.txt
-Hello a.txt git
