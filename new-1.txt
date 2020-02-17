@@ -1,1 +1,1 @@
-แก้ไขบรรทัดแรก create file new-1.txt and seve
+แก้ไขบรรทัดแรก create file new-1.txt and seve ด้วย user1 หละงการแก้ conflict แล้ว seve
